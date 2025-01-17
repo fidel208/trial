@@ -19,7 +19,7 @@ body {
     margin-top: 0px;
     color: #f9faf8;
     font-size: 24px;
-    margin-right: 350px;
+    margin-right: 420px;
     margin-left: 200px;
 }
 .start > p {
@@ -27,8 +27,8 @@ body {
     margin-top: 7px;
     color: #e5e7eb;
     font-size: 18px;
-    margin-right: 20px;
-    width: 130px;
+    margin-right: 10px;
+    width: 120px;
     text-align: center;
 }
 .start > p:hover {
